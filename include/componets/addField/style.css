@@ -1,0 +1,32 @@
+.addField .inputAddData {
+    /* margin-top: 35px;
+    margin-left: 5px; */
+    position: fixed;
+    top: calc(50% - 12.5px);
+    height: 25px;
+    width: calc(100vw - 50px);
+
+    left: 17px;
+    padding: 5px;
+    margin-left: 0px;
+
+
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: medium;
+
+    -webkit-touch-callout: unset;
+    /* iOS Safari */
+    -webkit-user-select: unset;
+    /* Safari */
+    -moz-user-select: unset;
+    /* Old versions of Firefox */
+    -ms-user-select: unset;
+    /* Internet Explorer/Edge */
+    user-select: unset;
+    /* Chrome, Opera and Firefox */
+
+    color: #1f212b;
+    background-color: #88c0d0;
+}

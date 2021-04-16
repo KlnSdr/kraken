@@ -1,0 +1,13 @@
+.details .headline {
+    margin-bottom: 0px;
+}
+
+.details .outputChart {
+    margin: 5px !important;
+    margin-top: 30px !important;
+    width: calc(100% - 10px) !important;
+}
+
+.details table {
+    margin-left: 5px;
+}

@@ -1,0 +1,54 @@
+#testContainer {
+    margin-top: 35px;
+}
+
+.allFields {
+    margin-bottom: 50px;
+}
+
+.dataField {
+    border-radius: 5px;
+    border: 1px solid #88c0d0;
+    padding: 10px;
+    font-size: large;
+    margin-bottom: 5px;
+}
+
+.allFields li {
+    list-style: none;
+    margin-left: -35px;
+    margin-right: 5px;
+}
+
+.dataField h3 {
+    margin: 5px;
+}
+
+.dataField p {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.dataField button {
+    width: 100%;
+    background-color: #1f212b;
+    color: #88c0d0;
+    border: 2px solid #88c0d0;
+    border-radius: 5px;
+    display: block;
+}
+
+.dataField button:focus {
+    outline: none;
+}
+
+.dataField table {
+    width: 100%;
+    margin-left: 3px;
+}
+
+.dataField td {
+    width: 50%;
+    text-align: left;
+}
